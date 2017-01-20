@@ -38,7 +38,7 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 
 ##Android开发中的疑难杂症
 ##开发工具使用指南
-###[Android Studio使用指南](开发工具指南/Android studio使用指南.md "title")
+###[Android Studio使用指南](开发工具使用指南/Android studio使用指南.md "title")
 1. 配置环境
 1. 常用插件
 1. 奇淫技巧
