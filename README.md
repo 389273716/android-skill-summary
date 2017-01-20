@@ -3,7 +3,7 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 本文主要是整理本人近1年半所收藏的Android开发知识，覆盖面不是很全，欢迎大家提交PR进行完善。
 
 
-##[Android开发技能](Android%E5%BC%80%E5%8F%91%E6%8A%80%E8%83%BD.md "Title")
+##[Android开发技能](Android技能/Android%E5%BC%80%E5%8F%91%E6%8A%80%E8%83%BD.md "Title")
 1. 基础知识
 1. 自定义view
 1. 动画相关
