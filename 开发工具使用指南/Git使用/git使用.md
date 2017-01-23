@@ -25,7 +25,6 @@
 ###git错误处理
 * [android开发中遇到的有关问题汇总【八】 - Android] (http://www.myexception.cn/android/1986380.html "Title")
 * [fatal: Cannot update paths and switch to branch 'gitlab' at the same time. - qianggezhishen的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/qianggezhishen/article/details/49337169 "Title")
-* [xx] (xxx "Title")
 * [Git使用之——冲突解决一（git merge conflict） - younghz - 博客频道 - CSDN.NET] (http://blog.csdn.net/u012150179/article/details/14047183 "Title")
 * [使用git pull文件时和本地文件冲突怎么办？ - 快乐编程] (http://www.01happy.com/git-resolve-conflicts/ "Title")
 
