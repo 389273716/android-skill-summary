@@ -36,7 +36,7 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 1. Fresco图片库使用
 
 
-##Android开发中的疑难杂症
+##[Android开发中的疑难杂症](Android开发疑难杂症/Android问题汇总.md "Title")
 ##开发工具使用指南
 ###[Android Studio使用指南](开发工具使用指南/Android%20studio使用指南/Android%20studio使用指南.md "Title")
 1. 配置环境
