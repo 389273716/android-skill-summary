@@ -37,6 +37,10 @@
 * [Android Studio使用心得 - 常见问题集锦 - 大熊的Android开发之旅 - 博客频道 - CSDN.NET] (http://blog.csdn.net/codezjx/article/details/38669939 "Title")
 * [Android Studio你不知道的调试技巧 - 推酷
 ] (http://www.tuicool.com/articles/UJRj6nv "Title")
+* [debugging - How to debug when running Robolectric tests in Android Studio? - Stack Overflow] (http://stackoverflow.com/questions/21184490/how-to-debug-when-running-robolectric-tests-in-android-studio/21188221#21188221 "Title")
+* [JCenter下载太慢？教你修改Maven仓库地址为国内镜像 - biezhihua的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/biezhihua/article/details/49668605 "Title")
+
+
 
 
 ###  插件开发
