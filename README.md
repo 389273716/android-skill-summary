@@ -3,25 +3,25 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 本文主要是整理本人近1年半所收藏的Android开发知识，覆盖面不是很全，欢迎大家提交PR进行完善。
 
 
-##[Android开发技能](Android日常开发技能/Android%E5%BC%80%E5%8F%91%E6%8A%80%E8%83%BD.md "Title")
-1. 基础知识
-1. 自定义view
-1. 动画相关
-1. 常用控件
-1. RecyclerView专题
-1. 热修复
-1. Fragment专题
-1. 性能优化
-1. SVG图片在Android的应用
-1. Android任务栈管理
-1. 自动化测试
-1. 蓝牙技能
-1. AR增强现实
-1. 混淆代码
-1. 方法数超出65K解决方案
-1. 手表开发
-1. MVP模式应用
-1. Android APP插件化
+##Android开发技能
+1. [基础知识](Android日常开发技能/基础知识.md "Title")
+1. [自定义view](Android日常开发技能/自定义view.md "Title")
+1. [动画相关](Android日常开发技能/动画相关.md "Title")
+1. [常用控件](Android日常开发技能/常用控件.md "Title")
+1. [RecyclerView专题](Android日常开发技能/RecyclerView专题.md "Title")
+1. [热修复](Android日常开发技能/热修复.md "Title")
+1. [Fragment专题](Android日常开发技能/Fragment专题.md "Title")
+1. [性能优化](Android日常开发技能/性能优化.md "Title")
+1. [SVG图片在Android的应用](Android日常开发技能/SVG图片在Android的应用.md "Title")
+1. [Android任务栈管理](Android日常开发技能/Android任务栈管理.md "Title")
+1. [自动化测试](Android日常开发技能/自动化测试.md "Title")
+1. [蓝牙技能](Android日常开发技能/蓝牙技能.md "Title")
+1. [AR增强现实](Android日常开发技能/AR增强现实.md "Title")
+1. [混淆代码](Android日常开发技能/混淆代码.md "Title")
+1. [方法数超出65K解决方案](Android日常开发技能/方法数超出65K解决方案.md "Title")
+1. [手表开发](Android日常开发技能/手表开发.md "Title")
+1. [MVP模式应用](Android日常开发技能/MVP模式应用.md "Title")
+1. [Android APP插件化](Android日常开发技能/Android APP插件化.md "Title")
 1. 屏幕适配
 1. Webview探坑专题
 1. 特殊API罗列
