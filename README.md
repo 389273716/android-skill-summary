@@ -5,7 +5,7 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 
 ##Android开发技能
 1. [杂类知识](Android日常开发技能/杂类知识.md "Title")
-1. [自定义view](Android日常开发技能/自定义view.md "Title")
+1. [自定义view知识](Android日常开发技能/自定义view知识.md "Title")
 1. [动画相关](Android日常开发技能/动画相关.md "Title")
 1. [常用控件](Android日常开发技能/常用控件.md "Title")
 1. [RecyclerView专题](Android日常开发技能/RecyclerView专题.md "Title")
