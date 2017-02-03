@@ -10,4 +10,7 @@
 * [Fresco学习笔记 - 程序园] (http://www.voidcn.com/blog/idaretobe/article/p-5977165.html  "Title")
 * [Fresco(Facebook开源的android项目)图片缓存框架的eclipse整合与使用探索(较详细配置说明) - 开源中国社区] (http://www.oschina.net/code/snippet_2310130_47596  "Title")
 * [Android中级篇之Fresco-加载图片基础 - y1笑而过 - 博客频道 - CSDN.NET] (http://blog.csdn.net/y1scp/article/details/49245535  "Title")
-
+* [Fresco | 关键概念 | Fresco 中文文档] (http://www.fresco-cn.org/docs/concepts.html#_  "Title")
+* [Android中级篇之Fresco-加载图片基础[详细图解Fresco的使用] - wyb112233的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/wyb112233/article/details/49637685  "Title")
+* [Fresco 加载配置类] (http://blog.csdn.net/sunflower_cwy/article/details/50729281  "Title")
+* [Glide 图片加载库] (http://mrfu.me/2016/02/27/Glide_Getting_Started/  "Title")
