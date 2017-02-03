@@ -4,7 +4,7 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 
 
 ##Android开发技能
-1. [基础知识](Android日常开发技能/基础知识.md "Title")
+1. [杂类知识](Android日常开发技能/杂类知识.md "Title")
 1. [自定义view](Android日常开发技能/自定义view.md "Title")
 1. [动画相关](Android日常开发技能/动画相关.md "Title")
 1. [常用控件](Android日常开发技能/常用控件.md "Title")
@@ -22,17 +22,17 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 1. [手表开发](Android日常开发技能/手表开发.md "Title")
 1. [MVP模式应用](Android日常开发技能/MVP模式应用.md "Title")
 1. [Android APP插件化](Android日常开发技能/Android APP插件化.md "Title")
-1. 屏幕适配
-1. Webview探坑专题
-1. 特殊API罗列
-1. Databinding数据绑定
-1. RXJava学习
-1. Volly源码学习
-1. ORM数据库使用
-1. 共享元素动画
-1. Android相机以及抓红包游戏demo
-1. 7.0新特性
-1. Fresco图片库使用
+1. [屏幕适配](Android日常开发技能/屏幕适配.md "Title")
+1. [Webview探坑专题](Android日常开发技能/Webview探坑专题.md "Title")
+1. [特殊API罗列](Android日常开发技能/特殊API罗列.md "Title")
+1. [Databinding数据绑定](Android日常开发技能/Databinding数据绑定.md "Title")
+1. [RXJava学习](Android日常开发技能/RXJava学习.md "Title")
+1. [Volly源码学习](Android日常开发技能/Volly源码学习.md "Title")
+1. [数据库使用](Android日常开发技能/数据库使用.md "Title")
+1. [Android权限管理](Android日常开发技能/Android权限管理.md "Title")
+1. [Android相机以及抓红包游戏demo](Android日常开发技能/Android相机以及抓红包游戏demo.md "Title")
+1. [7.0新特性](Android日常开发技能/7.0新特性.md "Title")
+1. [Fresco图片库使用](Android日常开发技能/Fresco图片库使用.md "Title")
 
 
 ##[Android开发中的疑难杂症](Android开发疑难杂症/Android问题汇总.md "Title")
@@ -70,9 +70,19 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 1. gradle配置常见问题
 
 
-##前沿技术以及语言介绍
-##技术网站推荐
-##大牛博客
+##[前沿技术以及语言介绍](前沿技术以及语言/前沿技术以及语言介绍.md "Title")
+
+
+##[技术网站推荐](技术网站推荐/技术网站推荐.md "Title")
+
+
+##[大牛博客](大牛博客/大牛博客.md "Title")
+
+
 ##Android第三方库
+
+
 ##酷炫UI
+
+
 ##其它补充
