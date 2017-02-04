@@ -1,9 +1,10 @@
 # android-skill-summary
 Android 技能总结，各种基础和进阶内容的资料收集。
-本文主要是整理本人近1年半所收藏的Android开发知识，覆盖面不是很全，欢迎大家提交PR进行完善。
+本文主要是整理本人近1年半所收藏的Android开发知识，覆盖面不是很全，欢迎大家提交PR进行完善，有空时我会持续完善。整理起来好累，😫。还有掘金的书签还没整理出来。--DATE:2017-02-04
+推荐新手看第一个大类Android开发技能的前面几个以及开发工具使用指南。（PS：推荐安装Octotree插件，这样在google浏览器下可以方便浏览所有学习资料。）
 
 
-##Android开发技能
+##Android开发技能汇总
 1. [杂类知识](Android日常开发技能/杂类知识.md "Title")
 1. [自定义view知识](Android日常开发技能/自定义view知识.md "Title")
 1. [动画相关](Android日常开发技能/动画相关.md "Title")
@@ -12,8 +13,11 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 1. [热修复](Android日常开发技能/热修复.md "Title")
 1. [Fragment专题](Android日常开发技能/Fragment专题.md "Title")
 1. [性能优化](Android日常开发技能/性能优化.md "Title")
-1. [SVG图片在Android的应用](Android日常开发技能/SVG图片在Android的应用.md "Title")
+1. [数据库使用](Android日常开发技能/数据库使用.md "Title")
 1. [Android任务栈管理](Android日常开发技能/Android任务栈管理.md "Title")
+1. [Webview探坑专题](Android日常开发技能/Webview探坑专题.md "Title")
+1. [特殊API罗列](Android日常开发技能/特殊API罗列.md "Title")
+1. [SVG图片在Android的应用](Android日常开发技能/SVG图片在Android的应用.md "Title")
 1. [自动化测试](Android日常开发技能/自动化测试.md "Title")
 1. [蓝牙技能](Android日常开发技能/蓝牙技能.md "Title")
 1. [AR增强现实](Android日常开发技能/AR增强现实.md "Title")
@@ -23,12 +27,9 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 1. [MVP模式应用](Android日常开发技能/MVP模式应用.md "Title")
 1. [Android APP插件化](Android日常开发技能/Android APP插件化.md "Title")
 1. [Android适配](Android日常开发技能/Android适配.md "Title")
-1. [Webview探坑专题](Android日常开发技能/Webview探坑专题.md "Title")
-1. [特殊API罗列](Android日常开发技能/特殊API罗列.md "Title")
 1. [Databinding数据绑定](Android日常开发技能/Databinding数据绑定.md "Title")
 1. [RXJava学习](Android日常开发技能/RXJava学习.md "Title")
 1. [Volly源码学习](Android日常开发技能/Volly源码学习.md "Title")
-1. [数据库使用](Android日常开发技能/数据库使用.md "Title")
 1. [Android权限管理](Android日常开发技能/Android权限管理.md "Title")
 1. [Android相机以及抓红包游戏demo](Android日常开发技能/Android相机以及抓红包游戏demo.md "Title")
 1. [7.0新特性](Android日常开发技能/7.0新特性.md "Title")
@@ -82,7 +83,6 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 ##[Android第三方库](Android第三方库/Android第三方库.md "Title")
 
 
-##酷炫UI
 
 
-##其它补充
+##其它补充--待定
