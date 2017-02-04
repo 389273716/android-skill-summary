@@ -10,6 +10,14 @@
 * [如何在一个电脑上同时使用两个Git的账号 - 简书] (http://www.jianshu.com/p/886aea2fa206 "Title")
 * [Git SSH Key 生成步骤 - hustpzb的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/hustpzb/article/details/8230454/ "Title")
 * [笔记《版本控制之道--使用Git》 - kerson的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/mirkerson/article/details/22950911 "Title")
+* [git学习教程--不错] (https://github.com/geeeeeeeeek/git-recipes/wiki  "Title")
+* [从0开始学习 GitHub 系列之「Git 进阶」] (http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661929&idx=1&sn=69e00516a30723c5a20af3c7a84173a4&scene=0  "Title")
+* [Git相关分享] (http://www.imooc.com/article/6243  "Title")
+* [Git 少用 Pull 多用 Fetch 和 Merge] (http://www.cnblogs.com/flying_bat/p/3408634.html  "Title")
+
+
+
+
 
 
 ###git进阶知识

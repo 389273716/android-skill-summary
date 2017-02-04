@@ -15,4 +15,5 @@
 * [VectorDrawable的工作原理 - asdzheng的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/asdzheng/article/details/51816248  "Title")
 * [解决android 将vector图片转为 bitmap时为null的问题_Android开发-织梦者] (http://www.zhimengzhe.com/Androidkaifa/136648.html  "Title")
 * [关于android中矢量图如何用，有坑，爬坑，如何替代的另一些看法 - 简书] (http://www.jianshu.com/p/313912ff2f37  "Title")
+* [Android Vector曲折的兼容之路] (http://weibo.com/ttarticle/p/show?id=2309613994235345974365  "Title")
 

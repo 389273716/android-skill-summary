@@ -31,8 +31,16 @@
 * [Android 中 Canvas 绘图之 Shader 使用图文详解 - 安卓 - 伯乐在线] (http://android.jobbole.com/83927/  "Title")
 * [自定义控件三部曲之动画篇（二）——Interpolator插值器 - 启舰 - 博客频道 - CSDN.NET] (http://blog.csdn.net/harvic880925/article/details/40049763  "Title")
 * [ 仿支付宝咻一咻雷达脉冲效果 - Android知识库] (http://lib.csdn.net/article/android/46713 "Title")
+* [Android 自定义 view 详解] (http://android.jobbole.com/83835/  "Title")
+* [Android View的绘制流程] (https://pixabay.com/?url_type=39&object_type=webpage&pos=1  "Title")
+* [Android 自定义 view 动画按钮] (http://toutiao.io/j/p0kwgp  "Title")
+* [Android 中 Canvas 绘图之 Shader 使用图文详解] (http://android.jobbole.com/83927/  "Title")
+* [Android 自定义View属性相关细节] (http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820236&idx=1&sn=6dec4ff1efeda3224b5a40fdad862404&scene=0#wechat_redirect  "Title")
+* [自定义View实战（一） 汽车速度仪表盘] (http://m.blog.csdn.net/article/details?id=51373269#rd  "Title")
+* [Android自定义控件系列案例] (http://www.imooc.com/article/6289 "Title")
 
 ###自定义surfaceview
+* [android之View和SurfaceView] (http://m.blog.csdn.net/article/details?id=7288968  "Title")
 * [Android视图SurfaceView的实现原理分析 - 老罗的Android之旅 - 博客频道 - CSDN.NET] (http://blog.csdn.net/luoshengyang/article/details/8661317/  "Title")
 * [Android SurfaceView使用详解 | Alex's Blog] (http://codingnow.cn/android/603.html  "Title")
 * [android的surfaceview的用法 - coder - 博客频道 - CSDN.NET] (http://blog.csdn.net/heikefangxian23/article/details/50110007  "Title")
@@ -70,7 +78,7 @@
 * [三次贝塞尔曲线练习之弹性的圆 - 简书] (http://www.jianshu.com/p/791d3a791ec2  "Title")
 * [Android向量(路径)动画 - 开发实例、源码下载 - 好例子网] (http://www.haolizi.net/example/view_5953.html  "Title")
 * [贝塞尔Loading——化学风暴] (http://mp.weixin.qq.com/s/O3tccbshLWkiKKOfdkNTcQ  "Title")
-
+* [Android Path酷炫动画 , 极速get花式Path] (http://mp.weixin.qq.com/s/h0KgI7zX1kGwFAbcGd_yvA "Title")
 
 
 

@@ -22,7 +22,7 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 1. [手表开发](Android日常开发技能/手表开发.md "Title")
 1. [MVP模式应用](Android日常开发技能/MVP模式应用.md "Title")
 1. [Android APP插件化](Android日常开发技能/Android APP插件化.md "Title")
-1. [屏幕适配](Android日常开发技能/屏幕适配.md "Title")
+1. [Android适配](Android日常开发技能/Android适配.md "Title")
 1. [Webview探坑专题](Android日常开发技能/Webview探坑专题.md "Title")
 1. [特殊API罗列](Android日常开发技能/特殊API罗列.md "Title")
 1. [Databinding数据绑定](Android日常开发技能/Databinding数据绑定.md "Title")

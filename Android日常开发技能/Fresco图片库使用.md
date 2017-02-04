@@ -14,3 +14,5 @@
 * [Android中级篇之Fresco-加载图片基础[详细图解Fresco的使用] - wyb112233的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/wyb112233/article/details/49637685  "Title")
 * [Fresco 加载配置类] (http://blog.csdn.net/sunflower_cwy/article/details/50729281  "Title")
 * [Glide 图片加载库] (http://mrfu.me/2016/02/27/Glide_Getting_Started/  "Title")
+* [Android一整套图片解决方案] (http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820998&idx=1&sn=c9670674dcfb71a24521e898776f234e&scene=0#wechat_redirect  "Title")
+* [Fresco图片加载框架使用经验小结] (http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820929&idx=1&sn=914622a161e1132827b364aa86b13aca&scene=0#wechat_redirect  "Title")
