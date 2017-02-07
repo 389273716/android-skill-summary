@@ -19,6 +19,7 @@
 * [Mac 版迅雷，免费使用高速通道，离线下载 - 简书] (http://www.jianshu.com/p/6d7e64920268 "Title")
 * [显示Mac上隐藏文件以及设置文件隐藏属性方法-Mac大学] (http://www.macdaxue.com/show-hide-file/ "Title")
 * [Pocket: 开发人员的Mac应用速查表] (https://getpocket.com/a/read/1524519231 "Title")
+* [mac破解软件下载地址] (http://www.sdifenzhou.com/ "Title")
 
 
 ###实用工具
