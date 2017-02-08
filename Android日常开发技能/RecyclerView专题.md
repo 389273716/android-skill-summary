@@ -15,5 +15,6 @@
 * [SuperRecyclerView，只为打造出更好用的RecyclerView] (http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236424&idx=1&sn=3f70ba16b7cc4c2301a128eb743598ae&scene=0#wechat_redirect  "Title")
 * [那些酷炫的RecyclerView开源库整理] (http://android.jobbole.com/83410/  "Title")
 * [针对RecyclerView打造属于你的LayoutManager] (http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820355&idx=1&sn=a9cae8d5d9d607d691715b93a35fecc3&scene=0#wechat_redirect  "Title")
-
+* [RecyclerView缓存的问题] (http://blog.csdn.net/wuhengde/article/details/46833967  "Title")
+* [RecyclerView解析] (http://mojijs.com/2016/07/217437/index.html "Title")
 
