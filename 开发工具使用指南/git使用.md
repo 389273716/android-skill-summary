@@ -13,7 +13,6 @@
 * [git学习教程--不错] (https://github.com/geeeeeeeeek/git-recipes/wiki  "Title")
 * [从0开始学习 GitHub 系列之「Git 进阶」] (http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661929&idx=1&sn=69e00516a30723c5a20af3c7a84173a4&scene=0  "Title")
 * [Git相关分享] (http://www.imooc.com/article/6243  "Title")
-* [Git 少用 Pull 多用 Fetch 和 Merge] (http://www.cnblogs.com/flying_bat/p/3408634.html  "Title")
 
 
 
@@ -28,6 +27,7 @@
 * [Git - 分支的新建与合并] (https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E6%96%B0%E5%BB%BA%E4%B8%8E%E5%90%88%E5%B9%B6 "Title")
 * [git 使用经验与技巧总结 (不断更新中) - fandyst - 博客园] (http://www.cnblogs.com/ToDoToTry/p/3936779.html "Title")
 * [Git 少用 Pull 多用 Fetch 和 Merge - 至尊王者 - 博客园] (http://www.cnblogs.com/flying_bat/p/3408634.html "Title")
+* [一个可以提高开发效率的Git命令-- Cherry-Pick] (http://www.jianshu.com/p/d985b93f7746  "Title")
 
 
 ###git错误处理

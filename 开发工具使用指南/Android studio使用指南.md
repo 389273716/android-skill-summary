@@ -54,6 +54,8 @@
 * [学会编写Android Studio插件 别停留在用的程度了 - Hongyang - 博客频道 - CSDN.NET] (http://blog.csdn.net/lmj623565791/article/details/51548272 "Title")
 * [Gradle自定义插件 - eclipse_xu - 博客频道 - CSDN.NET] (http://blog.csdn.net/eclipsexys/article/details/50973205 "Title")
 * [动手试试Android Studio插件开发] (http://m.blog.csdn.net/article/details?id=53245530  "Title")
+* [ AndroidStudio插件开发（进阶篇之Action机制）] (http://blog.csdn.net/huachao1001/article/details/53883500 "Title")
+* [ AndroidStudio插件开发（进阶篇之Editor）] (http://blog.csdn.net/huachao1001/article/details/53885981 "Title")
 
 
 

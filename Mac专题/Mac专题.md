@@ -40,4 +40,7 @@
 * [Mac上有哪些冷门但却逆天的软件？ - 高手之路 - 知乎专栏] (https://zhuanlan.zhihu.com/p/22165209 "Title")
 * [Spectacle mac for mac|Spectacle mac版下载 V1.2 - PC6苹果网] (http://www.pc6.com/mac/141442.html "Title")
 * [wulkano/kap: An open-source screen recorder built with web technology] (https://github.com/wulkano/kap "Title")
+* [kap --gif、视频录制工具] (https://github.com/wulkano/kap "Title")
+* [如何优雅地一键实现macOS网络代理切换] (http://debugtalk.com/post/switch-macOS-web-proxy-in-elegant-way/ "Title")
+* [mac Charles v4.0.2详细破解教程] (https://gold.xitu.io/post/5856a54a1b69e60056dcbe0a "Title")
 
