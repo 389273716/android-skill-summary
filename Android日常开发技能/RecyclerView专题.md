@@ -20,4 +20,5 @@
 * [RecyclerView解析] (http://mojijs.com/2016/07/217437/index.html "Title")
 * [控制RecyclerView Item停留位置（居中？左对齐？）] (http://mp.weixin.qq.com/s/o_Hu8ZT1XayNMZ6fM6rk-g "Title")
 * [RecyclerView定制：通用ItemDecoration及全展开RecyclerView的实现] (http://www.jianshu.com/p/4f554aba2bec "Title")
+* [RecyclerView的新机制：预取（Prefetch）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0214/7113.html "Title")
 

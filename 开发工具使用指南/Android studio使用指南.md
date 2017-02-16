@@ -30,6 +30,7 @@
 * [Android Studio 翻译插件,可以将英文翻译为中文.] (https://github.com/Skykai521/ECTranslation  "Title")
 
 ### 奇淫技巧
+* [Android Studio插件整理](http://www.jianshu.com/p/c76b0d8a642d “Title”)
 * [Android Studio 小技巧合集，快捷键] (http://laobie.github.io/android/2016/02/14/android-studio-tips.html "Title")
 * [Android Studio2.0的逆天功能Instant Run - 姜家志 - SegmentFault] (http://segmentfault.com/a/1190000004039742 "Title")
 * [Android Studio你不知道的调试技巧 | Weishu's Notes] (http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/ "Title")
@@ -56,6 +57,7 @@
 * [动手试试Android Studio插件开发] (http://m.blog.csdn.net/article/details?id=53245530  "Title")
 * [ AndroidStudio插件开发（进阶篇之Action机制）] (http://blog.csdn.net/huachao1001/article/details/53883500 "Title")
 * [ AndroidStudio插件开发（进阶篇之Editor）] (http://blog.csdn.net/huachao1001/article/details/53885981 "Title")
+* [Android Studio 插件开发](https://gold.xitu.io/post/58a3c930ac502e0068b148ba "Title")
 
 
 
