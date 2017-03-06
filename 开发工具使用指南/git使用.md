@@ -2,6 +2,7 @@
 ##Git使用
 
 ###git新手入门
+* [优雅的使用git搭建项目环境教程--轻松拉取、合并protected的分支] (http://blog.csdn.net/u010716109/article/details/51819578 "Title")
 * [github使用技巧] (https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html "Title")
 * [Git教程 - 廖雪峰的官方网站] (http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/ "Title")
 * [手把手教你最简单的开源项目托管GitHub入门教程_百度经验] (http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html "Title")
@@ -11,7 +12,8 @@
 * [Git SSH Key 生成步骤 - hustpzb的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/hustpzb/article/details/8230454/ "Title")
 * [笔记《版本控制之道--使用Git》 - kerson的专栏 - 博客频道 - CSDN.NET] (http://blog.csdn.net/mirkerson/article/details/22950911 "Title")
 * [git学习教程--不错] (https://github.com/geeeeeeeeek/git-recipes/wiki  "Title")
-* [从0开始学习 GitHub 系列之「Git 进阶」] (http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661929&idx=1&sn=69e00516a30723c5a20af3c7a84173a4&scene=0  "Title")
+* [从0开始学习 GitHub 系列之「Git 进阶」] 
+http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661929&idx=1&sn=69e00516a30723c5a20af3c7a84173a4&scene=0 
 * [Git相关分享] (http://www.imooc.com/article/6243  "Title")
 
 
