@@ -7,6 +7,9 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 >PS：推荐安装Octotree插件，这样在google浏览器下可以方便浏览所有学习资料。
 
 
+##每周推荐
+[2017-03-11 第一期](推荐专区/本周推荐.md  "Title")
+
 ##Android开发技能汇总
 1. [杂类知识](Android日常开发技能/杂类知识.md "Title")
 1. [自定义view知识](Android日常开发技能/自定义view知识.md "Title")
