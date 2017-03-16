@@ -2,6 +2,7 @@
 ##Android Studio使用指南
 ### 配置环境
 > 如果遇到导入项目，一直在loading进不去，需要手动修改build.gradle文件里的gradle版本声明以及gradle-wrapper.properties，一般改为你当前拥有的。
+
 * [Android studio gradle配置](http://www.cnphp6.com/archives/58885 "Title") 
 * [Android Studio常用功能设置](http://www.weixq.cn/detail/2015/0512/2576.html "Title") 
 * [Gradle for Android 第一篇](http://segmentfault.com/a/1190000004229002 "Title")
