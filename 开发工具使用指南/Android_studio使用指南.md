@@ -10,7 +10,7 @@
 * [android stuio修改代码参考线和智能换行 ](http://blog.csdn.net/u012296101/article/details/47726325 "Title")
 * [Android Studio你不知道的调试技巧](http://android.jobbole.com/83282/  "Title")
 * [Android Studio高级配置 - 简书](http://www.jianshu.com/p/4243f3b52644 "Title")
-* [Android Studio debug使用release的签名 - 编程是一门艺术 - 博客频道 - CSDN.NET] (http://blog.csdn.net/h3c4lenovo/article/details/42011887 "Title")
+* [Android Studio debug使用release的签名 - 编程是一门艺术 - 博客频道 - CSDN.NET](http://blog.csdn.net/h3c4lenovo/article/details/42011887 "Title")
 * [Android Studio 模板（Template）定制 - djk_dong的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/djk_dong/article/details/47130863 "Title")
 * [使用FreeMarker模板引擎自定义Android工程模板](https://zhuanlan.zhihu.com/p/21301904?f3fb8ead20=27e9ea3bb99398228e019a49fd33a35a  "Title")
 * [重新认识AndroidStudio和Gradle,这些都是你应该知道的](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=2247483946&idx=1&sn=da2458e2e6cd87115adec58ac0b0d3c6&chksm=97201d03a05794150a48bf3c0586b11c355c541dcd5b0f76dcad7fd1304d080459e6564d8298&mpshare=1&scene=1&srcid=1017GVivyfq4lSBaNEpMCXJu#rd "Title")
@@ -29,7 +29,8 @@
 * [Android Studio 翻译插件,可以将英文翻译为中文.](https://github.com/Skykai521/ECTranslation  "Title")
 
 ### 奇淫技巧
-* [Android Studio插件整理](http://www.jianshu.com/p/c76b0d8a642d “Title”)
+
+* [Android Studio插件整理](http://www.jianshu.com/p/c76b0d8a642d  “Title”)
 * [Android Studio 小技巧合集，快捷键](http://laobie.github.io/android/2016/02/14/android-studio-tips.html "Title")
 * [Android Studio2.0的逆天功能Instant Run - 姜家志 - SegmentFault](http://segmentfault.com/a/1190000004039742 "Title")
 * [Android Studio你不知道的调试技巧 | Weishu's Notes](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/ "Title")
