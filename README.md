@@ -11,9 +11,11 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 
 
 ##每周推荐
+
 [2017-03-11 第一期](推荐专区/本周推荐.md  "Title")
 
 ##Android开发技能汇总
+
 1. [杂类知识](Android日常开发技能/杂类知识.md "Title")
 1. [自定义view知识](Android日常开发技能/自定义view知识.md "Title")
 1. [动画相关](Android日常开发技能/动画相关.md "Title")
@@ -34,7 +36,7 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 1. [方法数超出65K解决方案](Android日常开发技能/方法数超出65K解决方案.md "Title")
 1. [手表开发](Android日常开发技能/手表开发.md "Title")
 1. [MVP模式应用](Android日常开发技能/MVP模式应用.md "Title")
-1. [Android APP插件化](Android日常开发技能/Android APP插件化.md "Title")
+1. [Android APP插件化](Android日常开发技能/AndroidAPP插件化.md  "Title")
 1. [Android适配](Android日常开发技能/Android适配.md "Title")
 1. [Databinding数据绑定](Android日常开发技能/Databinding数据绑定.md "Title")
 1. [RXJava学习](Android日常开发技能/RXJava学习.md "Title")
@@ -46,8 +48,11 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 
 
 ##[Android开发中的疑难杂症](Android开发疑难杂症/Android问题汇总.md "Title")
+
 ##开发工具使用指南
+
 ###[Android Studio使用指南](开发工具使用指南/Android_studio使用指南.md "Title")
+
 1. 配置环境
 1. 常用插件
 1. 奇淫技巧
@@ -55,12 +60,14 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 
 
 ###[Git使用](开发工具使用指南/git使用.md "Title")
+
 1. git基础知识
 1. git进阶知识
 1. git错误处理
 
 
 ###[项目管理](开发工具使用指南/项目管理.md "Title")
+
 1. 项目集成知识
 1. 私有Maven库搭建
 1. Jcenter上传库
@@ -75,6 +82,7 @@ Android 技能总结，各种基础和进阶内容的资料收集。
 
 
 ###[Gradle使用进阶](开发工具使用指南/gradle使用进阶.md "Title")
+
 1. 入门介绍
 1. 多渠道打包
 1. gradle配置常见问题
