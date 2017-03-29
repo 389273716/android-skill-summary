@@ -1,5 +1,5 @@
 # android-skill-summary
->2017-03-16g github上面这些链接的macdown写法全部挂掉。本人目前只修复一部分，望了解。
+>2017-03-16 github上面这些链接的markdown写法全部挂掉。本人目前只修复一部分，望了解。
 
 
 Android 技能总结，各种基础和进阶内容的资料收集。
