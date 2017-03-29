@@ -1,8 +1,8 @@
 
-##Android自定义View
+## Android自定义View
 
 
-###常规自定义view必备知识以及demo
+### 常规自定义view必备知识以及demo
 
 1. [Android自定义View的实现方法，带你一步步深入了解View - 享受技术带来的快乐](http://blog.csdn.net/jdsjlzx/article/details/41113969  "Title")
 1. [Android利用canvas画各种图形(点、直线、弧、圆、椭圆、文字、矩形、多边形、曲线、圆角矩形) - 任海丽(3G/移动开发) - 博客频道 - CSDN.NET](http://blog.csdn.net/rhljiayou/article/details/7212620  "Title")
@@ -39,7 +39,7 @@
 1. [自定义View实战（一） 汽车速度仪表盘](http://m.blog.csdn.net/article/details?id=51373269#rd  "Title")
 1. [Android自定义控件系列案例](http://www.imooc.com/article/6289 "Title")
 
-###自定义surfaceview
+### 自定义surfaceview
 1. [android之View和SurfaceView](http://m.blog.csdn.net/article/details?id=7288968  "Title")
 1. [Android视图SurfaceView的实现原理分析 - 老罗的Android之旅 - 博客频道 - CSDN.NET](http://blog.csdn.net/luoshengyang/article/details/8661317/  "Title")
 1. [Android SurfaceView使用详解 | Alex's Blog](http://codingnow.cn/android/603.html  "Title")
@@ -52,7 +52,7 @@
 1. [Android中Canvas绘图之PorterDuffXfermode使用及工作原理详解 - 孙群 - 博客频道 - CSDN.NET](http://blog.csdn.net/iispring/article/details/50472485  "Title")
 1. [Android 5.0(Lollipop)中的SurfaceTexture，TextureView, SurfaceView和GLSurfaceView - 世事难料，保持低调 - 博客频道 - CSDN.NET](http://blog.csdn.net/jinzhuojun/article/details/44062175  "Title")
 
-###ViewDragHelper使用
+### ViewDragHelper使用
 1. [ViewDragHelper让你处理View拖动时，代码减半! - 钟钟的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jxxfzgy/article/details/44954705  "Title")
 1. [用ViewDragHelper实现的activity切换动画：Dragger - OPEN 开发经验库](http://www.open-open.com/lib/view/open1427960994100.html  "Title")
 
@@ -60,7 +60,7 @@
 
 
 
-###阻尼效果view
+### 阻尼效果view
 1. [ScrollView实现阻尼回弹效果！ - u011993368的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/u011993368/article/details/45074249  "Title")
 1. [自定义阻尼下拉回弹布局 - 各各他 - 博客园](http://www.cnblogs.com/chyl411/p/3847930.html  "Title")
 1. [下拉刷新、上拉加载更多控件实现原理及解析（一） - 简书](http://www.jianshu.com/p/670941c56ca6  "Title")
@@ -68,7 +68,7 @@
 
 
 
-###path动画绘制相关
+### path动画绘制相关
 1. [Path特效之PathMeasure打造万能路径动效 - Ajian_studio - 博客频道 - CSDN.NET](http://blog.csdn.net/tianjian4592/article/details/47067161  "Title")
 1. [贝塞尔曲线开发的艺术 - 简书](http://www.jianshu.com/p/55c721887568  "Title")
 1. [贝塞尔曲线 - 维基百科](https://en.wikipedia.org/wiki/B%C3%A9zier_curve  "Title")

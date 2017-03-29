@@ -1,5 +1,5 @@
 
-##Android适配
+## Android适配
 
 
 1. [Android UI适配 限定词 - ewrfedf的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ewrfedf/article/details/24359747  "Title")

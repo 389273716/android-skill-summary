@@ -1,5 +1,5 @@
 
-##RecyclerView专题
+## RecyclerView专题
 
 
 1. [卡片层叠布局，仿探探、人人影视订阅界面 简单&优雅：LayoutManager+ItemTouchHelper - mcxtzhang - 掘金专栏](https://gold.xitu.io/post/5856825c1b69e6006c96a58b  "Title")

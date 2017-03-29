@@ -1,5 +1,5 @@
 
-##Databinding数据绑定
+## Databinding数据绑定
 
 
 1. [Android数据绑定框架DataBinding，堪称解决界面逻辑的黑科技 - 简书](http://www.jianshu.com/p/2d3227d9707d  "Title")

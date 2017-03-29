@@ -1,5 +1,5 @@
 
-##RXJava学习
+## RXJava学习
 
 1. [关于RxJava最友好的文章](http://mp.weixin.qq.com/s/Zx7xBGnDrbSSiKIMSaGf2Q  "Title")
 1. [Introduction · ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/  "Title")

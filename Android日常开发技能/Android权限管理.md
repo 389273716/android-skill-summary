@@ -1,5 +1,5 @@
 
-##Android权限管理
+## Android权限管理
 
 
 1. [Android M 新的运行时权限开发者需要知道的一切 | 微凉一季](http://jijiaxin89.com/2015/08/30/Android-s-Runtime-Permission/  "Title")
