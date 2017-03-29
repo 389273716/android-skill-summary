@@ -108,7 +108,7 @@
 
 
 
-###项目建设所需库--供项目初始阶段搭建使用
+### 项目建设所需库--供项目初始阶段搭建使用
 1. [MD对话框](https://github.com/afollestad/material-dialogs  "Title")
 1. [Dialogs - Sweet Alert Dialog](https://android-arsenal.com/details/1/1065  "Title")
 1. [Android入门及效率开发 - Sysia - SegmentFault](https://segmentfault.com/a/1190000004495351  "Title")
@@ -142,7 +142,7 @@
 1. [Android录音--AudioRecord、MediaRecorder (音频文件格式处理) - MMLoveMeMM - 博客园](http://www.cnblogs.com/MMLoveMeMM/articles/3444718.html  "Title")
 
 
-###富文本编辑器
+### 富文本编辑器
 1. [基于Android原生EditText的富文本组件，可以添加文字，插入图片](https://github.com/KDF5000/RichEditText  "Title")
 1. [Android平台下的富文本解析器，支持Html和Markdown](https://github.com/zzhoujay/RichText  "Title")
 1. [富文本框](https://github.com/mthli/Knife  "Title")
