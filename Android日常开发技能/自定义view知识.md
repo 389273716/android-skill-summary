@@ -1,6 +1,9 @@
 
 ## Android自定义View
 
+### 强力推荐教程
+1. [hencoder 自定义view系列教程！！！](http://hencoder.com/  "Title")
+
 
 ### 常规自定义view必备知识以及demo
 
