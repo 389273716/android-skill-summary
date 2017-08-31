@@ -25,3 +25,8 @@
 
 ## RXJava实践
 1. [rxjava+retrofit+okhttp+mvp 简单实践](rxjava+retrofit+okhttp+mvp 简单实践 "Title")
+
+## Retrofit专题
+1. [Android Retrofit 2.0使用](http://wuxiaolong.me/2016/01/15/retrofit/ "Title")
+1. [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841 "Title")
+1. [Android基于Retrofit2.0 +RxJava 封装的超好用的RetrofitClient工具类（六）](http://blog.csdn.net/sk719887916/article/details/51958010 "Title")
