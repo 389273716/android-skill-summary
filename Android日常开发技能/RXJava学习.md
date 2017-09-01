@@ -1,5 +1,5 @@
 
-## RXJava学习
+## RXJava 1.x学习
 
 1. [关于RxJava最友好的文章](http://mp.weixin.qq.com/s/Zx7xBGnDrbSSiKIMSaGf2Q  "Title")
 1. [Introduction · ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/  "Title")
@@ -18,14 +18,18 @@
 1. [RxJava 1.x 操作符介绍](https://www.zhihu.com/question/32209660 "Title")
 1. [RxJava 1.x 详解](https://zhuanlan.zhihu.com/p/21926591 "Title")
 1. [RxJava 1.x 操作符介绍图](http://rxmarbles.com/#debounce "Title")
-1. [RxJava 2.0系列1](http://www.jianshu.com/u/c50b715ccaeb "Title")
-1. [RxJava 2.0系列2](https://mp.weixin.qq.com/s/pHqyX_cgGLNM_fVdcojZ7A "Title")
 
 
-
-## RXJava实践
+## RXJava 1.x实践
 
 1. [rxjava+retrofit+okhttp+mvp 简单实践](https://github.com/THEONE10211024/RxJavaSamples  "Title")
+
+
+## RXJava 1.x实践
+
+1. [RxJava 2.0系列1](http://www.jianshu.com/u/c50b715ccaeb "Title")
+1. [RxJava 2.0系列2](https://mp.weixin.qq.com/s/pHqyX_cgGLNM_fVdcojZ7A "Title")
+1. [RxJava2 学习资料推荐](https://mp.weixin.qq.com/s/UAEgdC2EtqSpEqvog0aoZQ "Title")
 
 ## Retrofit专题
 
