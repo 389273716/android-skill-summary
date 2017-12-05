@@ -25,7 +25,7 @@
 1. [rxjava+retrofit+okhttp+mvp 简单实践](https://github.com/THEONE10211024/RxJavaSamples  "Title")
 
 
-## RXJava 1.x实践
+## RXJava 2.x
 
 1. [RxJava 2.0系列1](http://www.jianshu.com/u/c50b715ccaeb "Title")
 1. [RxJava 2.0系列2](https://mp.weixin.qq.com/s/pHqyX_cgGLNM_fVdcojZ7A "Title")
