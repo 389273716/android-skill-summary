@@ -20,6 +20,14 @@
 1. [RxJava 1.x 操作符介绍图](http://rxmarbles.com/#debounce "Title")
 
 
+## RxJava进阶之路
+
+1. [RxJava 常见误区（一）：过度使用 Subject](http://blog.csdn.net/PrototypeZ/article/details/51113828)
+1. [ RxJava（七） 使用debounce操作符 优化app搜索功能](http://blog.csdn.net/johnny901114/article/details/51555203)
+1. [RxJava部分操作符解析](https://juejin.im/entry/5a0ae5a26fb9a045132a3815)
+1. [拥抱 RxJava（三）：关于 Observable 的冷热，常见的封装方式以及误区](https://juejin.im/post/590b398eac502e00582bc616)
+
+
 ## RXJava 1.x实践
 
 1. [rxjava+retrofit+okhttp+mvp 简单实践](https://github.com/THEONE10211024/RxJavaSamples  "Title")
@@ -27,6 +35,7 @@
 
 ## RXJava 2.x
 
+1. [RxJava2 实战知识梳理(9) - 使用 timer/interval/delay 实现任务调度](https://www.jianshu.com/p/6db5d213c9c6)
 1. [RxJava 2.0系列1](http://www.jianshu.com/u/c50b715ccaeb "Title")
 1. [RxJava 2.0系列2](https://mp.weixin.qq.com/s/pHqyX_cgGLNM_fVdcojZ7A "Title")
 1. [RxJava2 学习资料推荐](https://mp.weixin.qq.com/s/UAEgdC2EtqSpEqvog0aoZQ "Title")
